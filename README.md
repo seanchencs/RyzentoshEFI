@@ -1,5 +1,5 @@
 # RyzentoshEFI
-My efi for my ryzentosh. Everything working except sleep.
+EFI for my ryzentosh. Everything working except sleep, even iMessage and FaceTime!
 
 # Specs:
 Motherboard: Asus X470-Prime-Pro  
